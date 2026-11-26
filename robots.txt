@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alecarolinavelasco.github.io/pago-al-dia-landing/sitemap.xml
